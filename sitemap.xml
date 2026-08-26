@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mestrey0d4-uninter.github.io/freelancer-br-kit-landing/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://mestrey0d4-uninter.github.io/freelancer-br-kit-landing/</loc><priority>1.0</priority></url>
   <url><loc>https://mestrey0d4-uninter.github.io/freelancer-br-kit-landing/index-produtos.html</loc><priority>0.8</priority></url>
   <url><loc>https://mestrey0d4-uninter.github.io/freelancer-br-kit-landing/financas.html</loc><priority>0.8</priority></url>
   <url><loc>https://mestrey0d4-uninter.github.io/freelancer-br-kit-landing/proposta.html</loc><priority>0.8</priority></url>
+  <url><loc>https://mestrey0d4-uninter.github.io/freelancer-br-kit-landing/financeiro-pessoal.html</loc><priority>0.8</priority></url>
+  <url><loc>https://mestrey0d4-uninter.github.io/freelancer-br-kit-landing/pequeno-negocio.html</loc><priority>0.8</priority></url>
+  <url><loc>https://mestrey0d4-uninter.github.io/freelancer-br-kit-landing/autonomos.html</loc><priority>0.8</priority></url>
 </urlset>
